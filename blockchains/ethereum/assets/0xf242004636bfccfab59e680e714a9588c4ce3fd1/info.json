@@ -1,0 +1,11 @@
+{
+  "name": "BTC2",
+  "symbol": "BTC2",
+  "decimals": 18,
+  "description": "BTC2 is a synthetic token that mirrors Bitcoin's price through decentralized reserves and automatic burn/release mechanisms.",
+  "website": "https://tua-pagina-web.com",
+  "twitter": "https://twitter.com/btc2project",
+  "telegram": "https://t.me/btc2project",
+  "github": "https://github.com/marcelloorizio/btc2-token-assets"
+}
+
